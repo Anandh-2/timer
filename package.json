@@ -41,6 +41,10 @@
     ]
   },
   "homepage": "https://Anandh-2.github.io/timer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anandh-2/timer.git"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
